@@ -52,7 +52,8 @@ configured.
 
 # Output:
 
-![Uploading image.png…]()
+![Screenshot 2025-05-29 081319](https://github.com/user-attachments/assets/c29db14e-f61d-4a6a-b867-9ea49bbd2feb)
+
 
 
 # Result:
